@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "r.RAGEMultiplayerTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RAGEMultiplayerTeam",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RARLab",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RARLab",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RCharan",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RCharan",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.REALiX",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "REALiX",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.REDModding",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "REDModding",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.REINERSCT",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "REINERSCT",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RFIDfans",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RFIDfans",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RFSpace",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RFSpace",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RHash",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RHash",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RIA",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RIA",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RIDI",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RIDI",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RKibria",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RKibria",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RODE",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RODE",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.534Z"
+  },
+  {
+    "id": "r.RProject",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RProject",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RabbitCompany",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RabbitCompany",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RabidViperProductions",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RabidViperProductions",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RaceCore24",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RaceCore24",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Racket",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Racket",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RadiantCommunity",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RadiantCommunity",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Radiantly",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Radiantly",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RadioSky",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RadioSky",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Radius",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Radius",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RadolynLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RadolynLabs",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rainmeter",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rainmeter",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rainy",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rainy",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rakk",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rakk",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rakuten",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rakuten",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RamSoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RamSoft",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rambax",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rambax",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rambox",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rambox",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RamenSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RamenSoftware",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RandomEngy",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RandomEngy",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RandyHollines",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RandyHollines",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RandyRants",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RandyRants",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RaoPics",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RaoPics",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RaspberryPiFoundation",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RaspberryPiFoundation",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RasterexSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RasterexSoftware",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RavenProject",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RavenProject",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RavensburgerAG",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RavensburgerAG",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RawTherapee",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RawTherapee",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rawns",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rawns",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RayCarrot",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RayCarrot",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RaynerSec",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RaynerSec",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RazerInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RazerInc",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rclone",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rclone",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Readdle",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Readdle",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RealVNC",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RealVNC",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RealtimeSoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RealtimeSoft",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.ReceitaFederaldoBrasil",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ReceitaFederaldoBrasil",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Reckel",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Reckel",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Recoupler",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Recoupler",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RedDucks",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RedDucks",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RedHat",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RedHat",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RedactSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RedactSoftware",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Redisant",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Redisant",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Reginald",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Reginald",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Regressi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Regressi",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RegsoftsSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RegsoftsSoftware",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.ReincubateLtd",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ReincubateLtd",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RejminetGroupInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RejminetGroupInc",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rem0o",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rem0o",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RemNote",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RemNote",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Remeha",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Remeha",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RemixDev",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RemixDev",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RemixTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RemixTeam",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RemoteUtilities",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RemoteUtilities",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RenewedVision",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RenewedVision",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Renode",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Renode",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Renoise",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Renoise",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Reolink",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Reolink",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.ReorProject",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ReorProject",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Replit",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Replit",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Reptarsrage",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Reptarsrage",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Reqable",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Reqable",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RescueTime",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RescueTime",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Reshade",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Reshade",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Resolume",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Resolume",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Resplendence",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Resplendence",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.ResponsivelyApp",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ResponsivelyApp",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RestApia",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RestApia",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Retroshare",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Retroshare",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Revival",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Revival",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RevoLand",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RevoLand",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RevoUninstaller",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RevoUninstaller",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Revolt",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Revolt",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Revopoint",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Revopoint",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Revora",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Revora",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rhinode",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rhinode",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RichWhitehouse",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RichWhitehouse",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RichardsonSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RichardsonSoftware",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RickClark",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RickClark",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RickMeyers",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RickMeyers",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RicoSuter",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RicoSuter",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RicochetIM",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RicochetIM",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Ridgecrop",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Ridgecrop",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RigsofRods",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RigsofRods",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Riiid",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Riiid",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RileyTestut",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RileyTestut",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rils",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rils",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rime",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rime",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RingCentral",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RingCentral",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RiotGames",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RiotGames",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Ripose",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Ripose",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Riseup",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Riseup",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Ritlabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Ritlabs",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RivaFarabi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RivaFarabi",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rizin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rizin",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rizonesoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rizonesoft",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RoamResearch",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RoamResearch",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RobertFFrasca",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RobertFFrasca",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RobertoConcepcion",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RobertoConcepcion",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RobinJullian",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RobinJullian",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RobinsonTechnologies",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RobinsonTechnologies",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Roblox",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Roblox",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Robware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Robware",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rockbox",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rockbox",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RocketChat",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RocketChat",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RoderickQiu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RoderickQiu",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rohde&Schwarz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rohde&Schwarz",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rojetto",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rojetto",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rojo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rojo",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rokkr",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rokkr",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Roku",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Roku",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RolandMelkert",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RolandMelkert",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RomanHiestand",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RomanHiestand",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RomanKubiak",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RomanKubiak",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Romanitho",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Romanitho",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Romcenter",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Romcenter",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RoniLehto",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RoniLehto",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RonyShapiro",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RonyShapiro",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RoonLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RoonLabs",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RootsMagic",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RootsMagic",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RoslynPad",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RoslynPad",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RossCarlson",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RossCarlson",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rowley",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rowley",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RoyQu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RoyQu",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RoyShilkrot",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RoyShilkrot",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RoyalApps",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RoyalApps",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Ruanmei",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Ruanmei",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rubberduck",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rubberduck",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Ruben2776",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Ruben2776",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rubick",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rubick",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RubyInstallerTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RubyInstallerTeam",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rufus",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rufus",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Ruihu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Ruihu",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RuneLite",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RuneLite",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RussellBanks",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RussellBanks",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RustDesk",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RustDesk",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RustemMussabekov",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RustemMussabekov",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rustlang",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rustlang",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RyanGregg",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RyanGregg",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Rye",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Rye",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.Ryochan7",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Ryochan7",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RythenGlyth",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RythenGlyth",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.RyzenControllerTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "RyzenControllerTeam",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.r12f",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "r12f",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.radj307",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "radj307",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.raimo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "raimo",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rammichael",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rammichael",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.ransome1",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ransome1",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.raphamorim",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "raphamorim",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.raycho",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "raycho",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rcmaehl",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rcmaehl",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rdimitrov",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rdimitrov",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.re-volt",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "re-volt",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.reMarkable",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "reMarkable",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.realsast",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "realsast",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.redream",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "redream",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.remoteit",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "remoteit",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.restic",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "restic",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rhysd",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rhysd",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rickbutton",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rickbutton",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rink-turksma",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rink-turksma",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.riweston",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "riweston",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rjpcomputing",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rjpcomputing",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.robinovitch61",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "robinovitch61",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rocksdanister",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rocksdanister",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.roryok",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "roryok",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rsjaffe",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rsjaffe",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rsteube",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rsteube",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.runlet",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "runlet",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rwv",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rwv",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.rwxrob",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "rwxrob",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.ryanSn",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ryanSn",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.ryanbekhen",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ryanbekhen",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  },
+  {
+    "id": "r.ryanvolz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ryanvolz",
+      "publisher": "r",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.535Z"
+  }
+]

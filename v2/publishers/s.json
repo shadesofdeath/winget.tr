@@ -1,0 +1,6330 @@
+[
+  {
+    "id": "s.SABnzbdTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SABnzbdTeam",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SAGAUserGroupAssociation",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SAGAUserGroupAssociation",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SAP",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SAP",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SBC",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SBC",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SBCL",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SBCL",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SDCC",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SDCC",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SEA",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SEA",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SERPRO",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SERPRO",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SETCCE",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SETCCE",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SFLinux",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SFLinux",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SFTtech",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SFTtech",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SKAARHOJApS",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SKAARHOJApS",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SKCommunications",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SKCommunications",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SKDataAS",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SKDataAS",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SM5BSZ",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SM5BSZ",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SMARTTechnologies",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SMARTTechnologies",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SMLNJ",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SMLNJ",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SMPlayer",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SMPlayer",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SQLite",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SQLite",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SSBC",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SSBC",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SSHFS-Win",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SSHFS-Win",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.STYInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "STYInc",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SUPERAntiSpyware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SUPERAntiSpyware",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SURF",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SURF",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SUSE",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SUSE",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SVGExplorerExtension",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SVGExplorerExtension",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SVZsoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SVZsoft",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SWI-Prolog",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SWI-Prolog",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SWIG",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SWIG",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SaaSGroup",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SaaSGroup",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SabakiHQ",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SabakiHQ",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SachaBruttin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SachaBruttin",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SaeraSoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SaeraSoft",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SaferNetworking",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SaferNetworking",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Safing",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Safing",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SafingICSTechnologiesGmbH",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SafingICSTechnologiesGmbH",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SagMeinenNamen",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SagMeinenNamen",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SagarGurtu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SagarGurtu",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SagerNet",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SagerNet",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SaiSandeepVaddi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SaiSandeepVaddi",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sailcut",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sailcut",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SaitoGames",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SaitoGames",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SaladTechnologies",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SaladTechnologies",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Salesforce",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Salesforce",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SaltStack",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SaltStack",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SamHocevar",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SamHocevar",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SampTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SampTeam",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Samsung",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Samsung",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SamsungSDS",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SamsungSDS",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SamuelAttard",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SamuelAttard",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SamuelElliott",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SamuelElliott",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SamuelTulach",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SamuelTulach",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SamyGO",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SamyGO",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SanJin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SanJin",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sandakan",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sandakan",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sandboxie",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sandboxie",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SandroMani",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SandroMani",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SandwichFox",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SandwichFox",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SanfordLP",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SanfordLP",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sangoma",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sangoma",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SartoxOnlyGNU",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SartoxOnlyGNU",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SatDump",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SatDump",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SatisfactoryModding",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SatisfactoryModding",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SatoshiLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SatoshiLabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Saturneric",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Saturneric",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SauceLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SauceLabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sauerbraten",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sauerbraten",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Saurik",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Saurik",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SavardSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SavardSoftware",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Saxo_Broko",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Saxo_Broko",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sayuri",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sayuri",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Scala",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Scala",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ScandLtd",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ScandLtd",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Scandum",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Scandum",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Scanoss",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Scanoss",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ScaryRawr",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ScaryRawr",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Schezo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Schezo",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SchildiChat",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SchildiChat",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Schlaubi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Schlaubi",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Schniz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Schniz",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Schrodinger",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Schrodinger",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Schuischta",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Schuischta",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Scilab",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Scilab",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Scintilla",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Scintilla",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ScooterSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ScooterSoftware",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Scopely",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Scopely",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Scorpio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Scorpio",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ScottMcKendry",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ScottMcKendry",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ScratchForDiscord",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ScratchForDiscord",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ScreenCloud",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ScreenCloud",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Scribus",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Scribus",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ScummVM",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ScummVM",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SeDuTec",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SeDuTec",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Seafile",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Seafile",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Seagate",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Seagate",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SearchDeflector",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SearchDeflector",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SebastianEwert",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SebastianEwert",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SebastianFelling",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SebastianFelling",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SecombaGmbH",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SecombaGmbH",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Secret",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Secret",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SecretsOPerationS",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SecretsOPerationS",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SecurepointGmbH",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SecurepointGmbH",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SecuritySnares",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SecuritySnares",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Seedy-Threepio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Seedy-Threepio",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Seelen",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Seelen",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Seewo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Seewo",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Segger",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Segger",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sejda",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sejda",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Selur",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Selur",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sensirion",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sensirion",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sentinel",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sentinel",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sentry",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sentry",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Seonglae",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Seonglae",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SequencePublishing",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SequencePublishing",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SergeyFilippov",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SergeyFilippov",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SergeyMoskalev",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SergeyMoskalev",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SergeySerkov",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SergeySerkov",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SerhiiSlieptsov",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SerhiiSlieptsov",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SerialLab",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SerialLab",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Serraniel",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Serraniel",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ServerData",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ServerData",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Serverless",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Serverless",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SevenTV",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SevenTV",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SeventhString",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SeventhString",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shabinder",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shabinder",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shadow",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shadow",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shapr3D",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shapr3D",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ShareFile",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ShareFile",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ShareX",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ShareX",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SharkLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SharkLabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ShaulEizikovich",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ShaulEizikovich",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shemnei",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shemnei",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shift",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shift",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ShiftCryptoAG",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ShiftCryptoAG",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ShiftUp",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ShiftUp",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shilihu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shilihu",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.ShiningLight",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ShiningLight",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shooter",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shooter",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shssoichiro",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shssoichiro",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Shure",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Shure",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SiarheiKuchuk",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SiarheiKuchuk",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SiberSystems",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SiberSystems",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SideQuestVR",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SideQuestVR",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sidero",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sidero",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sigil-Ebook",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sigil-Ebook",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SigmaNight",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SigmaNight",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sigrok",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sigrok",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sigstore",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sigstore",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Silicondust",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Silicondust",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SilouhetteStudio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SilouhetteStudio",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SilverlakeSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SilverlakeSoftware",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimAirIo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimAirIo",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimbaTechnologies",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimbaTechnologies",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimnetLtd",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimnetLtd",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Simon511000",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Simon511000",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimonG4ELI",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimonG4ELI",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimonSteele",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimonSteele",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimonTatham",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimonTatham",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Simple",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Simple",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimpleLedger",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimpleLedger",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimpleTex",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimpleTex",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimpleX",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimpleX",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SimulIDE",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SimulIDE",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sinew",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sinew",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SingularLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SingularLabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SinhanBank",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SinhanBank",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Skaarhoj",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Skaarhoj",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Skiff",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Skiff",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Skillbrains",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Skillbrains",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Skrepysh",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Skrepysh",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sky",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sky",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SlackTechnologies",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SlackTechnologies",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Slackadays",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Slackadays",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SlackedLime",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SlackedLime",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SlashedIo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SlashedIo",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SleepTimer",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SleepTimer",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SleuthKit",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SleuthKit",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Slik",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Slik",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Slite",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Slite",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Slonopotamus",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Slonopotamus",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Smallstep",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Smallstep",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SmartBear",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SmartBear",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SmartGameBooster",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SmartGameBooster",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SmartHoldemDAPPs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SmartHoldemDAPPs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SmartProjects",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SmartProjects",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SmartSoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SmartSoft",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Smile",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Smile",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Smilegate",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Smilegate",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Smogon",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Smogon",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SmokeCloud",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SmokeCloud",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SnailDOS",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SnailDOS",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SnapNet",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SnapNet",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SnapmakerDevTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SnapmakerDevTeam",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Snaz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Snaz",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Snijderlab",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Snijderlab",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sniptool",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sniptool",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SnoopWpf",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SnoopWpf",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Snowflake",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Snowflake",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Snyk",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Snyk",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SocialchainInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SocialchainInc",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoftDeluxe",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoftDeluxe",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoftFever",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoftFever",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoftMaker",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoftMaker",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoftPerfect",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoftPerfect",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Softerra",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Softerra",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoftplanSistemas",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoftplanSistemas",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoftpointerInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoftpointerInc",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoftwareFreedomConservancy",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoftwareFreedomConservancy",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoftwareOK",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoftwareOK",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sogou",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sogou",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sohu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sohu",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SolarWinds",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SolarWinds",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SolidClouds",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SolidClouds",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SolidWorks",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SolidWorks",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Solidigm",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Solidigm",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Solidiquis",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Solidiquis",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SolveSpace",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SolveSpace",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Solvusoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Solvusoft",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SomePythonThings",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SomePythonThings",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Soneliem",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Soneliem",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SonicPi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SonicPi",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SonicTeamJr",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SonicTeamJr",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SonicVisualiser",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SonicVisualiser",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SonicWALL",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SonicWALL",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Soniczac7",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Soniczac7",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sonos",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sonos",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sonosaurus",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sonosaurus",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SonsofExiled",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SonsofExiled",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sony",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sony",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoroushChehresa",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoroushChehresa",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Soulseek",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Soulseek",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Soundly",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Soundly",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SoupBuild",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SoupBuild",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SourceFoundry",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SourceFoundry",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SourceGear",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SourceGear",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Sovranti",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sovranti",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Spacemesh",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Spacemesh",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SpanishGovernment",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SpanishGovernment",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SparkLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SparkLabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SparkleShare",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SparkleShare",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SparksCommunications",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SparksCommunications",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Spatie",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Spatie",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SpatiumPortae",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SpatiumPortae",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Speakeasy",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Speakeasy",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SpecialK",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SpecialK",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Speed-Soft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Speed-Soft",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SpeedCrunch",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SpeedCrunch",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Speek",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Speek",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SpencerSoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SpencerSoft",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Spice",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Spice",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Spicebrains",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Spicebrains",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Spicetify",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Spicetify",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SpikeHD",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SpikeHD",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Splashtop",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Splashtop",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Splawik",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Splawik",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SplitCam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SplitCam",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SplitmediaLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SplitmediaLabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Splunk",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Splunk",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Spotify",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Spotify",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SpriteOvO",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SpriteOvO",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SpyShelter",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SpyShelter",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Spyder",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Spyder",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.SquareCloud",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SquareCloud",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Squitch",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Squitch",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Stacher",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stacher",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.StackExchange",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StackExchange",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.StandardNotes",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StandardNotes",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Stanford",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stanford",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.StarFinanz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StarFinanz",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.601Z"
+  },
+  {
+    "id": "s.Stardock",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stardock",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StarfaceGmbH",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StarfaceGmbH",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StarlaneStudios",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StarlaneStudios",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Starpine",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Starpine",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Starship",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Starship",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StartIsBack",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StartIsBack",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Startpack",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Startpack",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Status",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Status",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SteamDatabase",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SteamDatabase",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SteamGridDB",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SteamGridDB",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SteamRE",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SteamRE",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Steccas",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Steccas",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SteelSeries",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SteelSeries",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StefHeyenrath",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StefHeyenrath",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StefanBerg",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StefanBerg",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StefanFreischlad",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StefanFreischlad",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StefanMalzner",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StefanMalzner",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StefanSundin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StefanSundin",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StefansTools",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StefansTools",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stellar",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stellar",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StellarDataRecovery",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StellarDataRecovery",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stellarium",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stellarium",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stenzek",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stenzek",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StepMania",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StepMania",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StephanDilly",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StephanDilly",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Steunebrink",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Steunebrink",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StevenCole",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StevenCole",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StevenHarlow",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StevenHarlow",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stevenaaus",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stevenaaus",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stockfish",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stockfish",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stoplight",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stoplight",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Storj",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Storj",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StrawberryPerl",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StrawberryPerl",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stream-Pi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stream-Pi",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Streamlabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Streamlabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Streamlink",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Streamlink",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Streamway",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Streamway",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Streetwriters",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Streetwriters",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Strem",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Strem",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stremio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stremio",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stretchly",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stretchly",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stripe",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stripe",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StudioCoast",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StudioCoast",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StudioRack",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StudioRack",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StudioXID",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StudioXID",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Stuffmatic",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Stuffmatic",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StuntRally",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StuntRally",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.StylusLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "StylusLabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SublimeHQ",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SublimeHQ",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Subsurface",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Subsurface",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SulakeOy",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SulakeOy",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SumatraPDF",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SumatraPDF",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Summay",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Summay",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SuperCollider",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SuperCollider",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SuperCuber",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SuperCuber",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SuperFlexibleSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SuperFlexibleSoftware",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SuperTux",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SuperTux",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SuperTuxKart",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SuperTuxKart",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Superace",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Superace",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Superhuman",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Superhuman",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Supermicro",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Supermicro",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Surfshark",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Surfshark",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SurgeSynth",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SurgeSynth",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Suwayomi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Suwayomi",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SvenRowoldt",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SvenRowoldt",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SweetScape",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SweetScape",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Swift",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Swift",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SwingTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SwingTeam",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SwitTechnologiesInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SwitTechnologiesInc",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Sylpheed",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sylpheed",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SylvainRougeaux",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SylvainRougeaux",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Symflower",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Symflower",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Symless",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Symless",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SyncTERM",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SyncTERM",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SyncTrayzor",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SyncTrayzor",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Syncany",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Syncany",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Syncplay",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Syncplay",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Syncplify",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Syncplify",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Syncthing",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Syncthing",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Synfig",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Synfig",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Synology",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Synology",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Synthesia",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Synthesia",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.Sysprogs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Sysprogs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SystemExplorer",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SystemExplorer",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.SystweakSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "SystweakSoftware",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.s8sachin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "s8sachin",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sa7mon",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sa7mon",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sam-astro",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sam-astro",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.samlab-ws",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "samlab-ws",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sandboxlab",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sandboxlab",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sandreas",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sandreas",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sbt",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sbt",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sc0ty",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sc0ty",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.scarvalhojr",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "scarvalhojr",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.schemacrawler",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "schemacrawler",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.schild-report",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "schild-report",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.schollz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "schollz",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.scimusmn",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "scimusmn",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.scottlerch",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "scottlerch",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sdercolin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sdercolin",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sebastianstoff",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sebastianstoff",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sebescudie",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sebescudie",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.secana",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "secana",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sedwards2009",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sedwards2009",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.seerge",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "seerge",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sf-yuzifu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sf-yuzifu",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sfx101",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sfx101",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.shadowsocks",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "shadowsocks",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.shagrath",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "shagrath",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sharkdp",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sharkdp",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.shimo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "shimo",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.shirowanisan",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "shirowanisan",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.shogixyz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "shogixyz",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sidneys",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sidneys",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sigoden",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sigoden",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sikalabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sikalabs",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.simonmichael",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "simonmichael",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sipgate",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sipgate",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sirWest",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sirWest",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sirredbeard",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sirredbeard",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.skyfloogle",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "skyfloogle",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.skyjake",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "skyjake",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.skypjack",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "skypjack",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.slowscript",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "slowscript",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.smartfrigde",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "smartfrigde",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.smartmontools",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "smartmontools",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.snakefoot",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "snakefoot",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.softsyst",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "softsyst",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.solemnwarning",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "solemnwarning",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.songlim327",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "songlim327",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sonnylab",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sonnylab",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.soopercool101",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "soopercool101",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sordum",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sordum",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sourcegit-scm",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sourcegit-scm",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.spacedrive",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "spacedrive",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.spacelift-io",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "spacelift-io",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sparrowwallet",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sparrowwallet",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.splode",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "splode",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.spluxx",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "spluxx",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.springlobby",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "springlobby",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sprout2000",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sprout2000",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sputt",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sputt",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sqlectron",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sqlectron",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.squalou",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "squalou",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.squidowl",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "squidowl",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.squirreldisk",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "squirreldisk",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.srevinsaju",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "srevinsaju",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.srjuddington",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "srjuddington",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stackless",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stackless",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stacklok",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stacklok",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stackrox",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stackrox",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stacks",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stacks",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stakira",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stakira",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.staniel359",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "staniel359",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stax76",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stax76",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stefanprodan",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stefanprodan",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stevencohn",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stevencohn",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.steventhanna",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "steventhanna",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stnkl",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stnkl",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.str4d",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "str4d",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.strayge",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "strayge",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.streamerbot",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "streamerbot",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.strimio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "strimio",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.stuncloud",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "stuncloud",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.subhra74",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "subhra74",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.succlz123",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "succlz123",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sufone",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sufone",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sum1re",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sum1re",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sunabozu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sunabozu",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sunzongzheng",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sunzongzheng",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.supertiger1234",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "supertiger1234",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.surajrathod",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "surajrathod",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.suzuki-shunsuke",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "suzuki-shunsuke",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.svenstaro",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "svenstaro",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sw4you",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sw4you",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.swiftyapp",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "swiftyapp",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.swim2sun",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "swim2sun",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sxyazi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sxyazi",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sylikc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sylikc",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.sylviiu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "sylviiu",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.syndicode",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "syndicode",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.syvaidya",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "syvaidya",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  },
+  {
+    "id": "s.szTheory",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "szTheory",
+      "publisher": "s",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.602Z"
+  }
+]

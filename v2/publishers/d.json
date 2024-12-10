@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "d.D-Link",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "D-Link",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.D4koon",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "D4koon",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DBBrowserForSQLite",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DBBrowserForSQLite",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DBVis",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DBVis",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DCSS",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DCSS",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DEVCOM",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DEVCOM",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DFRobot",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DFRobot",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DG0JBJ",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DG0JBJ",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DH2iCompany",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DH2iCompany",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DIG",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DIG",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DISTRHO",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DISTRHO",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DJI",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DJI",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DMM",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DMM",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DNSCrypt",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DNSCrypt",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DOSBox",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DOSBox",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DOSBoxStaging",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DOSBoxStaging",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DRDTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DRDTeam",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DVDFlick",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DVDFlick",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DVSTSEOOD",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DVSTSEOOD",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DW",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DW",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DWANGO",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DWANGO",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DXsoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DXsoft",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DaCosySheeep",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DaCosySheeep",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DaMtech",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DaMtech",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dagger",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dagger",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DaiyuuNobori",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DaiyuuNobori",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DanTheMan827",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DanTheMan827",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DanielMcGuireCorporation",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DanielMcGuireCorporation",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Danilov",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Danilov",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DaouTech",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DaouTech",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dapr",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dapr",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DaringDevelopmentInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DaringDevelopmentInc",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DarkfullDante",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DarkfullDante",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DasKeyboard",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DasKeyboard",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dashlane",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dashlane",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DataHammer",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DataHammer",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DataPLANT",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DataPLANT",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DataPower",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DataPower",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DataTools",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DataTools",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Databricks",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Databricks",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Datadog",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Datadog",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dataflare",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dataflare",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Datalust",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Datalust",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Datronicsoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Datronicsoft",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Datto",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Datto",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Daum",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Daum",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DavidJoffe",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DavidJoffe",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DavidMeeker",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DavidMeeker",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DavidMoore",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DavidMoore",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DavidNorgren",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DavidNorgren",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DavidRector",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DavidRector",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DavidRios",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DavidRios",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DavidTHOIRON",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DavidTHOIRON",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DavidWheatley",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DavidWheatley",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DaxStudio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DaxStudio",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Daytonaio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Daytonaio",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DeSmuMETeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DeSmuMETeam",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DeaDBeeF",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DeaDBeeF",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DebaucheeOpenSourceGroup",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DebaucheeOpenSourceGroup",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Debian",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Debian",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Decred",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Decred",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DeepL",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DeepL",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Deezer",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Deezer",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DefangLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DefangLabs",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DelineaInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DelineaInc",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dell",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dell",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DeltaChat",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DeltaChat",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DelugeTeam",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DelugeTeam",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Denby",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Denby",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Denemo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Denemo",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DenoLand",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DenoLand",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Derailed",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Derailed",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DeskRelief",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DeskRelief",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DeskShare",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DeskShare",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DeskSoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DeskSoft",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Deskflow",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Deskflow",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Deta",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Deta",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DeterminedAI",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DeterminedAI",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DevHub",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DevHub",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DevToys-app",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DevToys-app",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DevelopedMethods",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DevelopedMethods",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DevinCook",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DevinCook",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Devolutions",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Devolutions",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dialpad",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dialpad",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dicarne",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dicarne",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dichromate",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dichromate",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DiegoFernandes",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DiegoFernandes",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DigiDNA",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DigiDNA",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DigiPen",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DigiPen",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Digimezzo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Digimezzo",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DigitalCreations",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DigitalCreations",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DigitalDevices",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DigitalDevices",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DigitalExtremes",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DigitalExtremes",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DigitalOcean",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DigitalOcean",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DigitalScholar",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DigitalScholar",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DigitalVolcanoSoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DigitalVolcanoSoftware",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Digola",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Digola",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Diladele",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Diladele",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DimisAIO",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DimisAIO",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DimitriVanHeesch",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DimitriVanHeesch",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DimitrovAdrian",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DimitrovAdrian",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DinamoNetworks",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DinamoNetworks",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dio",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DirSoft",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DirSoft",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DirkJansen",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DirkJansen",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Discord",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Discord",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DiskInternals",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DiskInternals",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Diskuv",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Diskuv",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DisplayLink",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DisplayLink",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DisruptiveInnovationsSAS",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DisruptiveInnovationsSAS",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Disservin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Disservin",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Ditto",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Ditto",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dixa",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dixa",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DjVuLibre",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DjVuLibre",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dlang",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dlang",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dman95",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dman95",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dmitry-Farafonov",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dmitry-Farafonov",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DmitryKozhinov",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DmitryKozhinov",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DoD",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DoD",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DockStation",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DockStation",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Docker",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Docker",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DocumizeInc",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DocumizeInc",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DogecoinCoreproject",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DogecoinCoreproject",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Doist",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Doist",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DolphinEmulator",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DolphinEmulator",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DoltHub",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DoltHub",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DominikReichl",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DominikReichl",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DonationCoder",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DonationCoder",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Donkz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Donkz",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DoomExplorer",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DoomExplorer",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DoomsdayEngine",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DoomsdayEngine",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Doppler",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Doppler",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dothq",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dothq",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Douyu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Douyu",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DownloadHelper",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DownloadHelper",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Doxie",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Doxie",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dr-Noob",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dr-Noob",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DrakeetXu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DrakeetXu",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Drawpile",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Drawpile",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DrewNaylor",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DrewNaylor",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DrobinskiMaciejStrongRecovery",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DrobinskiMaciejStrongRecovery",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dropbox",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dropbox",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Drovio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Drovio",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DrummerSi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DrummerSi",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Drumstick",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Drumstick",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DualitySoftware",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DualitySoftware",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DucFabulous",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DucFabulous",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DuckDB",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DuckDB",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DuckDuckGo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DuckDuckGo",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DuckStudio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DuckStudio",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dummerle",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dummerle",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DuoSecurity",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DuoSecurity",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DuongDieuPhap",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DuongDieuPhap",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DupeGuru",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DupeGuru",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Duplicati",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Duplicati",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DygmaLabs",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DygmaLabs",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dylibso",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dylibso",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dynalist",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dynalist",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.DynamoRIO",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "DynamoRIO",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.Dystroy",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "Dystroy",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dail8859",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dail8859",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dalance",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dalance",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.daltonmenezes",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "daltonmenezes",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dandavison",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dandavison",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dangeredwolf",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dangeredwolf",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.danstis",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "danstis",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.darktable",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "darktable",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dawg",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dawg",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.daynix",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "daynix",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dbeaver",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dbeaver",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dbrgn",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dbrgn",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dechamps",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dechamps",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.deep5050",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "deep5050",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.deepnight",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "deepnight",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.defi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "defi",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.den4b",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "den4b",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.derceg",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "derceg",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.derrod",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "derrod",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.deskfiler",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "deskfiler",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.desowin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "desowin",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dev47apps",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dev47apps",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.developersu",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "developersu",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.deviceinsight",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "deviceinsight",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dillonkearns",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dillonkearns",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.direnv",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "direnv",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.divVerent",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "divVerent",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dnGrep",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dnGrep",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dnSpyEx",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dnSpyEx",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.docmirror",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "docmirror",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dokan-dev",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dokan-dev",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.donkrage",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "donkrage",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dorssel",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dorssel",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dotPDN",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dotPDN",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dotenorio",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dotenorio",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dotenvx",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dotenvx",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dotse",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dotse",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.douzone",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "douzone",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.drakkan",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "drakkan",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dreamus",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dreamus",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dremin",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dremin",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.drscaon",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "drscaon",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dscalzi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dscalzi",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dscharrer",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dscharrer",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dsheiko",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dsheiko",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dsymbol",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dsymbol",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.ducaale",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "ducaale",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dukus",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dukus",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dumbasPL",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dumbasPL",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dundee",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dundee",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dune3d",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dune3d",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dustinblackman",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dustinblackman",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dvcrn",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dvcrn",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dxatlas",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dxatlas",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dynobo",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dynobo",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dziemborowicz",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dziemborowicz",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  },
+  {
+    "id": "d.dzonder",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "dzonder",
+      "publisher": "d",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:38.198Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8.86Box",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "86Box",
+      "publisher": "8",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:37.852Z"
+  },
+  {
+    "id": "8.8x8",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "8x8",
+      "publisher": "8",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:37.852Z"
+  }
+]

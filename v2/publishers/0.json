@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0.0x192",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "0x192",
+      "publisher": "0",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:37.830Z"
+  },
+  {
+    "id": "0.0xGingi",
+    "versions": [
+      "latest"
+    ],
+    "latest": {
+      "name": "0xGingi",
+      "publisher": "0",
+      "version": "latest",
+      "description": "",
+      "tags": []
+    },
+    "updatedAt": "2024-12-10T17:19:37.830Z"
+  }
+]
