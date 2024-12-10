@@ -1,15 +1,25 @@
 {
-  "name": "winget.tr",
+  "name": "winget-tr-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Turkish Winget Package Repository API",
+  "main": "scripts/generate-api.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "node scripts/generate-api.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "axios": "^1.7.9"
-  }
+    "axios": "^1.6.2",
+    "yaml": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadesofdeath/winget.tr.git"
+  },
+  "keywords": [
+    "winget",
+    "api",
+    "packages",
+    "turkish"
+  ],
+  "author": "shadesofdeath",
+  "license": "MIT"
 }

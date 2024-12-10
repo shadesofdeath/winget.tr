@@ -29,9 +29,13 @@ jobs:
         run: |
           npm ci || npm install
           npm install axios
+          npm install yaml
 
       - name: Create dist directory
         run: mkdir -p dist
+        
+      - name: Create cache directory
+        run: mkdir -p .cache
 
       - name: Generate API data
         env:
