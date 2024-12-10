@@ -1,0 +1,58 @@
+# .github/workflows/update-api.yml
+name: Update API Data
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Her 30 dakikada bir çalışır
+  workflow_dispatch:        # Manuel tetikleme için
+  push:
+    branches: [ main ]     # Main branch'e push olduğunda da çalışır
+
+jobs:
+  update-api:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: |
+          npm ci || npm install
+          npm install axios
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate API data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-api.js
+        
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'chore: update API data'
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
