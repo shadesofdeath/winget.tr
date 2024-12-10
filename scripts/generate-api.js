@@ -26,17 +26,6 @@ class WingetDetailedGenerator {
       try {
         await this.sleep(this.requestDelay);
         const response = await this.api.get(url);
-        
-        const remaining = parseInt(response.headers['x-ratelimit-remaining'] || '0');
-        if (remaining < 10) {
-          const resetTime = parseInt(response.headers['x-ratelimit-reset'] || '0') * 1000;
-          const waitTime = resetTime - Date.now() + 1000;
-          if (waitTime > 0) {
-            console.log(`Rate limit low, waiting ${Math.ceil(waitTime/1000)} seconds...`);
-            await this.sleep(waitTime);
-          }
-        }
-
         return response.data;
       } catch (error) {
         if (error.response?.status === 429) {
@@ -44,91 +33,66 @@ class WingetDetailedGenerator {
           await this.sleep(30000);
           continue;
         }
-        if (i === retries - 1) throw error;
-        await this.sleep(Math.pow(2, i) * 1000);
+        throw error;
       }
-    }
-  }
-
-  async getVersionPaths(publisher, pkgName) {
-    const url = `https://raw.githubusercontent.com/microsoft/winget-pkgs/main/manifests/${publisher}/${pkgName}`;
-    try {
-      const versions = await this.fetchWithRetry(`/repos/microsoft/winget-pkgs/contents/manifests/${publisher}/${pkgName}`);
-      return versions.filter(v => v.type === 'dir').map(v => ({
-        version: v.name,
-        path: `${url}/${v.name}`
-      }));
-    } catch (error) {
-      console.error(`Error getting versions for ${publisher}/${pkgName}:`, error.message);
-      return [];
-    }
-  }
-
-  async getManifestFiles(versionPath) {
-    try {
-      const files = await this.fetchWithRetry(versionPath);
-      return files.filter(f => f.name.endsWith('.yaml') || f.name.endsWith('.yml'));
-    } catch (error) {
-      console.error(`Error getting manifest files:`, error.message);
-      return [];
-    }
-  }
-
-  async getManifestContent(fileUrl) {
-    try {
-      const response = await this.api.get(fileUrl);
-      return yaml.parse(response.data);
-    } catch (error) {
-      console.error(`Error getting manifest content:`, error.message);
-      return null;
     }
   }
 
   async processPackage(publisher, pkg) {
     try {
       console.log(`Processing ${publisher.name}/${pkg.name}...`);
-      const versionPaths = await this.getVersionPaths(publisher.name, pkg.name);
       
-      if (versionPaths.length === 0) {
+      // Versiyon klasörlerini al
+      const versionsPath = `/repos/microsoft/winget-pkgs/contents/manifests/${publisher.name}/${pkg.name}`;
+      const versions = await this.fetchWithRetry(versionsPath);
+      const versionDirs = versions.filter(v => v.type === 'dir').sort((a, b) => b.name.localeCompare(a.name));
+
+      if (versionDirs.length === 0) {
         return null;
       }
 
       // En son versiyonun manifest dosyalarını al
-      const latestVersion = versionPaths[0];
-      const manifestFiles = await this.getManifestFiles(latestVersion.path);
-      
-      if (manifestFiles.length === 0) {
-        return null;
-      }
+      const latestVersion = versionDirs[0];
+      const manifestsPath = `/repos/microsoft/winget-pkgs/contents/manifests/${publisher.name}/${pkg.name}/${latestVersion.name}`;
+      const manifestFiles = await this.fetchWithRetry(manifestsPath);
 
-      // İlk manifest dosyasını oku
-      const manifest = await this.getManifestContent(manifestFiles[0].download_url);
-      
-      if (!manifest) {
-        return null;
-      }
+      // Manifest dosyalarını bul
+      const installerManifest = manifestFiles.find(f => f.name.includes('installer.yaml') || f.name.includes('installer.yml'));
+      const localeManifest = manifestFiles.find(f => f.name.includes('locale.en-US.yaml') || f.name.includes('locale.en-US.yml'));
+      const defaultManifest = manifestFiles.find(f => !f.name.includes('installer') && !f.name.includes('locale') && (f.name.endsWith('.yaml') || f.name.endsWith('.yml')));
 
+      // Manifest içeriklerini al
+      const [installer, locale, defaultData] = await Promise.all([
+        installerManifest ? this.fetchWithRetry(installerManifest.download_url) : null,
+        localeManifest ? this.fetchWithRetry(localeManifest.download_url) : null,
+        defaultManifest ? this.fetchWithRetry(defaultManifest.download_url) : null
+      ]);
+
+      // YAML parse
+      const installerData = installer ? yaml.parse(installer) : {};
+      const localeData = locale ? yaml.parse(locale) : {};
+      const mainData = defaultData ? yaml.parse(defaultData) : {};
+
+      // Birleştirilmiş veri
       return {
         id: `${publisher.name}.${pkg.name}`,
-        versions: versionPaths.map(v => v.version),
+        versions: versionDirs.map(v => v.name),
         latest: {
-          name: manifest.PackageName || pkg.name,
-          publisher: manifest.Publisher || publisher.name,
-          version: latestVersion.version,
-          description: manifest.Description || '',
-          tags: manifest.Tags ? manifest.Tags.split(',').map(t => t.trim()) : [],
-          homepage: manifest.Homepage || '',
-          license: manifest.License || '',
-          licenseUrl: manifest.LicenseUrl || '',
-          author: manifest.Author || ''
+          name: localeData.PackageName || mainData.PackageName || pkg.name,
+          publisher: localeData.Publisher || mainData.Publisher || publisher.name,
+          version: latestVersion.name,
+          description: localeData.ShortDescription || localeData.Description || '',
+          tags: localeData.Tags ? localeData.Tags.split(',').map(t => t.trim()) : [],
+          homepage: localeData.Homepage || mainData.Homepage || '',
+          license: localeData.License || mainData.License || '',
+          author: localeData.Author || mainData.Author || ''
         },
-        installers: manifest.Installers || [],
-        moniker: manifest.Moniker || '',
-        minOSVersion: manifest.MinOSVersion || '',
-        commands: manifest.Commands || [],
-        protocols: manifest.Protocols || [],
-        updatedAt: new Date().toISOString(),
-        createdAt: new Date(pkg.created_at || Date.now()).toISOString()
+        installers: installerData.Installers || [],
+        commands: installerData.Commands || [],
+        installerType: installerData.InstallerType || '',
+        dependencies: installerData.Dependencies || {},
+        manifestVersion: installerData.ManifestVersion || '',
+        updatedAt: new Date().toISOString()
       };
     } catch (error) {
       console.error(`Error processing package ${pkg.name}:`, error.message);
@@ -200,6 +164,7 @@ class WingetDetailedGenerator {
       await this.saveFiles();
       console.log(`Successfully processed ${this.packages.length} packages`);
       await this.generateStats();
+      await this.generateIndexHtml();
       
     } catch (error) {
       console.error('Error generating API:', error.message);
@@ -246,7 +211,8 @@ class WingetDetailedGenerator {
       totalPublishers: new Set(this.packages.map(p => p.latest.publisher)).size,
       totalVersions: this.packages.reduce((acc, pkg) => acc + pkg.versions.length, 0),
       lastUpdate: new Date().toISOString(),
-      topPublishers: this.getTopPublishers()
+      topPublishers: this.getTopPublishers(),
+      popularTags: this.getPopularTags()
     };
 
     await fs.writeFile(
@@ -266,6 +232,84 @@ class WingetDetailedGenerator {
       .sort((a, b) => b[1] - a[1])
       .slice(0, 20)
       .map(([publisher, count]) => ({ publisher, count }));
+  }
+
+  getPopularTags() {
+    const tagCount = {};
+    this.packages.forEach(pkg => {
+      pkg.latest.tags.forEach(tag => {
+        tagCount[tag] = (tagCount[tag] || 0) + 1;
+      });
+    });
+
+    return Object.entries(tagCount)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 20)
+      .map(([tag, count]) => ({ tag, count }));
+  }
+
+  async generateIndexHtml() {
+    const html = `<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title>Winget.tr API</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Turkish Winget Package Repository API">
+    <style>
+        body {
+            font-family: -apple-system, system-ui, sans-serif;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0; }
+        .stat-card { background: #f8f9fa; padding: 20px; border-radius: 8px; text-align: center; }
+        code { background: #f1f3f5; padding: 2px 6px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Winget.tr API</h1>
+        <p>Türkiye'nin Windows Paket Yöneticisi API'si</p>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <h3>📦 Toplam Paket</h3>
+                <strong>${this.packages.length}</strong>
+            </div>
+            <div class="stat-card">
+                <h3>👥 Toplam Yayıncı</h3>
+                <strong>${new Set(this.packages.map(p => p.latest.publisher)).size}</strong>
+            </div>
+            <div class="stat-card">
+                <h3>🔖 Toplam Versiyon</h3>
+                <strong>${this.packages.reduce((acc, pkg) => acc + pkg.versions.length, 0)}</strong>
+            </div>
+            <div class="stat-card">
+                <h3>🕒 Son Güncelleme</h3>
+                <strong>${new Date().toLocaleString('tr-TR')}</strong>
+            </div>
+        </div>
+
+        <h2>📚 API Endpoints</h2>
+        <ul>
+            <li><code>/v2/packages.json</code> - Tüm paketler</li>
+            <li><code>/v2/publishers/{publisher}.json</code> - Yayıncıya göre paketler</li>
+            <li><code>/v2/packages/{id}.json</code> - Tekil paket detayı</li>
+            <li><code>/v2/stats.json</code> - API istatistikleri</li>
+        </ul>
+
+        <h2>🔄 Güncelleme</h2>
+        <p>API her 30 dakikada bir otomatik olarak güncellenir.</p>
+    </div>
+</body>
+</html>`;
+
+    await fs.writeFile('dist/index.html', html);
   }
 }
 
