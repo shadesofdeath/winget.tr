@@ -45,69 +45,93 @@ class WingetDetailedGenerator {
           continue;
         }
         if (i === retries - 1) throw error;
-        const waitTime = Math.pow(2, i) * 1000;
-        await this.sleep(waitTime);
+        await this.sleep(Math.pow(2, i) * 1000);
       }
     }
   }
 
-  async fetchLatestManifest(publisher, packageName, versions) {
+  async getVersionPaths(publisher, pkgName) {
+    const url = `https://raw.githubusercontent.com/microsoft/winget-pkgs/main/manifests/${publisher}/${pkgName}`;
     try {
-      const latestVersion = versions[0];
-      const versionFiles = await this.fetchWithRetry(latestVersion.url);
-      
-      const yamlFile = versionFiles.find(f => 
-        f.name.endsWith('.yaml') || f.name.endsWith('.yml')
-      );
-
-      if (!yamlFile) return null;
-
-      const content = await this.fetchWithRetry(yamlFile.download_url);
-      return yaml.parse(content);
+      const versions = await this.fetchWithRetry(`/repos/microsoft/winget-pkgs/contents/manifests/${publisher}/${pkgName}`);
+      return versions.filter(v => v.type === 'dir').map(v => ({
+        version: v.name,
+        path: `${url}/${v.name}`
+      }));
     } catch (error) {
-      console.error(`Error fetching manifest for ${publisher}/${packageName}:`, error.message);
+      console.error(`Error getting versions for ${publisher}/${pkgName}:`, error.message);
+      return [];
+    }
+  }
+
+  async getManifestFiles(versionPath) {
+    try {
+      const files = await this.fetchWithRetry(versionPath);
+      return files.filter(f => f.name.endsWith('.yaml') || f.name.endsWith('.yml'));
+    } catch (error) {
+      console.error(`Error getting manifest files:`, error.message);
+      return [];
+    }
+  }
+
+  async getManifestContent(fileUrl) {
+    try {
+      const response = await this.api.get(fileUrl);
+      return yaml.parse(response.data);
+    } catch (error) {
+      console.error(`Error getting manifest content:`, error.message);
       return null;
     }
   }
 
   async processPackage(publisher, pkg) {
     try {
-      const versions = await this.fetchWithRetry(pkg.url);
-      const versionDirs = versions
-        .filter(v => v.type === 'dir')
-        .sort((a, b) => b.name.localeCompare(a.name));
+      console.log(`Processing ${publisher.name}/${pkg.name}...`);
+      const versionPaths = await this.getVersionPaths(publisher.name, pkg.name);
+      
+      if (versionPaths.length === 0) {
+        return null;
+      }
 
-      const manifest = await this.fetchLatestManifest(publisher.name, pkg.name, versionDirs);
+      // En son versiyonun manifest dosyalarını al
+      const latestVersion = versionPaths[0];
+      const manifestFiles = await this.getManifestFiles(latestVersion.path);
+      
+      if (manifestFiles.length === 0) {
+        return null;
+      }
 
+      // İlk manifest dosyasını oku
+      const manifest = await this.getManifestContent(manifestFiles[0].download_url);
+      
       if (!manifest) {
-        console.log(`No manifest found for ${publisher.name}/${pkg.name}`);
         return null;
       }
 
       return {
         id: `${publisher.name}.${pkg.name}`,
-        versions: versionDirs.map(v => v.name),
+        versions: versionPaths.map(v => v.version),
         latest: {
           name: manifest.PackageName || pkg.name,
           publisher: manifest.Publisher || publisher.name,
-          version: versionDirs[0].name,
+          version: latestVersion.version,
           description: manifest.Description || '',
           tags: manifest.Tags ? manifest.Tags.split(',').map(t => t.trim()) : [],
           homepage: manifest.Homepage || '',
           license: manifest.License || '',
           licenseUrl: manifest.LicenseUrl || '',
-          author: manifest.Author || '',
-          installerType: manifest.InstallerType || ''
+          author: manifest.Author || ''
         },
         installers: manifest.Installers || [],
         moniker: manifest.Moniker || '',
         minOSVersion: manifest.MinOSVersion || '',
-        productCode: manifest.ProductCode || '',
+        commands: manifest.Commands || [],
+        protocols: manifest.Protocols || [],
         updatedAt: new Date().toISOString(),
         createdAt: new Date(pkg.created_at || Date.now()).toISOString()
       };
     } catch (error) {
-      console.error(`Error processing ${pkg.name}:`, error.message);
+      console.error(`Error processing package ${pkg.name}:`, error.message);
       return null;
     }
   }
@@ -167,18 +191,14 @@ class WingetDetailedGenerator {
         
         console.log(`Processed batch ${index + 1}/${batches.length} (${this.packages.length} total packages)`);
         
-        // Her 10 batch'te bir dosyaları kaydet (ara yedekleme)
-        if (index % 10 === 0) {
+        if (index % 5 === 0) {
           await this.saveFiles();
           console.log('Saved intermediate results...');
         }
       }
 
-      // Final kayıt
       await this.saveFiles();
       console.log(`Successfully processed ${this.packages.length} packages`);
-      
-      // İstatistik dosyasını oluştur
       await this.generateStats();
       
     } catch (error) {
@@ -187,18 +207,15 @@ class WingetDetailedGenerator {
   }
 
   async saveFiles() {
-    // Dizin yapısını oluştur
     await fs.mkdir('dist/v2', { recursive: true });
     await fs.mkdir('dist/v2/publishers', { recursive: true });
     await fs.mkdir('dist/v2/packages', { recursive: true });
 
-    // Ana paket listesi
     await fs.writeFile(
       'dist/v2/packages.json',
       JSON.stringify(this.packages, null, 2)
     );
 
-    // Yayıncılara göre grupla
     const byPublisher = {};
     for (const pkg of this.packages) {
       const publisher = pkg.latest.publisher;
@@ -208,7 +225,6 @@ class WingetDetailedGenerator {
       byPublisher[publisher].push(pkg);
     }
 
-    // Yayıncı dosyaları
     for (const [publisher, packages] of Object.entries(byPublisher)) {
       await fs.writeFile(
         `dist/v2/publishers/${publisher}.json`,
@@ -216,7 +232,6 @@ class WingetDetailedGenerator {
       );
     }
 
-    // Tekil paket dosyaları
     for (const pkg of this.packages) {
       await fs.writeFile(
         `dist/v2/packages/${pkg.id}.json`,
@@ -231,7 +246,6 @@ class WingetDetailedGenerator {
       totalPublishers: new Set(this.packages.map(p => p.latest.publisher)).size,
       totalVersions: this.packages.reduce((acc, pkg) => acc + pkg.versions.length, 0),
       lastUpdate: new Date().toISOString(),
-      popularTags: this.getPopularTags(),
       topPublishers: this.getTopPublishers()
     };
 
@@ -239,20 +253,6 @@ class WingetDetailedGenerator {
       'dist/v2/stats.json',
       JSON.stringify(stats, null, 2)
     );
-  }
-
-  getPopularTags() {
-    const tagCount = {};
-    this.packages.forEach(pkg => {
-      pkg.latest.tags.forEach(tag => {
-        tagCount[tag] = (tagCount[tag] || 0) + 1;
-      });
-    });
-
-    return Object.entries(tagCount)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 20)
-      .map(([tag, count]) => ({ tag, count }));
   }
 
   getTopPublishers() {
@@ -269,7 +269,6 @@ class WingetDetailedGenerator {
   }
 }
 
-// API oluşturmayı başlat
-console.log('Starting Winget API generator with rate limiting...');
+console.log('Starting Winget API generator...');
 const generator = new WingetDetailedGenerator();
 generator.generateApiFiles();
