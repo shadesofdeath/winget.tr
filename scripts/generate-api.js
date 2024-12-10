@@ -13,7 +13,7 @@ class WingetDetailedGenerator {
     });
     
     this.packages = [];
-    this.concurrentLimit = 3;
+    this.concurrentLimit = 2;
     this.requestDelay = 1000;
   }
 
@@ -47,9 +47,7 @@ class WingetDetailedGenerator {
       const versions = await this.fetchWithRetry(versionsPath);
       const versionDirs = versions.filter(v => v.type === 'dir').sort((a, b) => b.name.localeCompare(a.name));
 
-      if (versionDirs.length === 0) {
-        return null;
-      }
+      if (versionDirs.length === 0) return null;
 
       // En son versiyonun manifest dosyalarını al
       const latestVersion = versionDirs[0];
@@ -73,7 +71,6 @@ class WingetDetailedGenerator {
       const localeData = locale ? yaml.parse(locale) : {};
       const mainData = defaultData ? yaml.parse(defaultData) : {};
 
-      // Birleştirilmiş veri
       return {
         id: `${publisher.name}.${pkg.name}`,
         versions: versionDirs.map(v => v.name),
@@ -92,6 +89,8 @@ class WingetDetailedGenerator {
         installerType: installerData.InstallerType || '',
         dependencies: installerData.Dependencies || {},
         manifestVersion: installerData.ManifestVersion || '',
+        productCode: installerData.ProductCode || '',
+        minOSVersion: installerData.MinOSVersion || '',
         updatedAt: new Date().toISOString()
       };
     } catch (error) {
@@ -163,8 +162,6 @@ class WingetDetailedGenerator {
 
       await this.saveFiles();
       console.log(`Successfully processed ${this.packages.length} packages`);
-      await this.generateStats();
-      await this.generateIndexHtml();
       
     } catch (error) {
       console.error('Error generating API:', error.message);
@@ -172,53 +169,132 @@ class WingetDetailedGenerator {
   }
 
   async saveFiles() {
-    await fs.mkdir('dist/v2', { recursive: true });
-    await fs.mkdir('dist/v2/publishers', { recursive: true });
-    await fs.mkdir('dist/v2/packages', { recursive: true });
+    try {
+        // Ana dizinleri oluştur
+        await fs.mkdir('dist', { recursive: true });
+        await fs.mkdir('dist/v2', { recursive: true });
+        await fs.mkdir('dist/v2/publishers', { recursive: true });
+        await fs.mkdir('dist/v2/packages', { recursive: true });
 
-    await fs.writeFile(
-      'dist/v2/packages.json',
-      JSON.stringify(this.packages, null, 2)
-    );
+        // Ana paket listesi
+        await fs.writeFile(
+            path.join('dist', 'v2', 'packages.json'),
+            JSON.stringify(this.packages, null, 2)
+        );
 
-    const byPublisher = {};
-    for (const pkg of this.packages) {
-      const publisher = pkg.latest.publisher;
-      if (!byPublisher[publisher]) {
-        byPublisher[publisher] = [];
-      }
-      byPublisher[publisher].push(pkg);
+        // Stats dosyası
+        const stats = {
+            totalPackages: this.packages.length,
+            totalPublishers: new Set(this.packages.map(p => p.latest.publisher)).size,
+            totalVersions: this.packages.reduce((acc, pkg) => acc + pkg.versions.length, 0),
+            lastUpdate: new Date().toISOString(),
+            topPublishers: this.getTopPublishers(),
+            popularTags: this.getPopularTags()
+        };
+
+        await fs.writeFile(
+            path.join('dist', 'v2', 'stats.json'),
+            JSON.stringify(stats, null, 2)
+        );
+
+        // Yayıncı bazlı dosyalar
+        const byPublisher = {};
+        for (const pkg of this.packages) {
+            const publisher = pkg.latest.publisher;
+            if (!byPublisher[publisher]) {
+                byPublisher[publisher] = [];
+            }
+            byPublisher[publisher].push(pkg);
+        }
+
+        for (const [publisher, packages] of Object.entries(byPublisher)) {
+            const sanitizedPublisher = publisher.replace(/[^a-zA-Z0-9-]/g, '_');
+            await fs.writeFile(
+                path.join('dist', 'v2', 'publishers', `${sanitizedPublisher}.json`),
+                JSON.stringify(packages, null, 2)
+            );
+        }
+
+        // Tekil paket dosyaları
+        for (const pkg of this.packages) {
+            const sanitizedId = pkg.id.replace(/[^a-zA-Z0-9-]/g, '_');
+            await fs.writeFile(
+                path.join('dist', 'v2', 'packages', `${sanitizedId}.json`),
+                JSON.stringify(pkg, null, 2)
+            );
+        }
+
+        // Ana sayfa
+        const indexHtml = `<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title>Winget.tr API</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; max-width: 1200px; margin: 40px auto; padding: 0 20px; }
+        pre { background: #f4f4f4; padding: 15px; border-radius: 5px; overflow-x: auto; }
+        code { background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
+        .endpoint { margin-bottom: 30px; }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0; }
+        .stat-card { background: #f8f9fa; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    </style>
+</head>
+<body>
+    <h1>🚀 Winget.tr API</h1>
+    
+    <div class="stats">
+        <div class="stat-card">
+            <h3>📦 Toplam Paket</h3>
+            <strong>${this.packages.length}</strong>
+        </div>
+        <div class="stat-card">
+            <h3>👥 Toplam Yayıncı</h3>
+            <strong>${stats.totalPublishers}</strong>
+        </div>
+        <div class="stat-card">
+            <h3>🕒 Son Güncelleme</h3>
+            <strong>${new Date().toLocaleString('tr-TR')}</strong>
+        </div>
+    </div>
+
+    <h2>📚 API Kullanımı</h2>
+    
+    <div class="endpoint">
+        <h3>Tüm Paketler</h3>
+        <pre>GET /v2/packages.json</pre>
+        <p>Tüm winget paketlerinin listesini döndürür.</p>
+    </div>
+
+    <div class="endpoint">
+        <h3>Yayıncı Paketleri</h3>
+        <pre>GET /v2/publishers/{publisher}.json</pre>
+        <p>Belirli bir yayıncının tüm paketlerini döndürür.</p>
+    </div>
+
+    <div class="endpoint">
+        <h3>Paket Detayı</h3>
+        <pre>GET /v2/packages/{package-id}.json</pre>
+        <p>Belirli bir paketin detaylı bilgilerini döndürür.</p>
+    </div>
+
+    <div class="endpoint">
+        <h3>API İstatistikleri</h3>
+        <pre>GET /v2/stats.json</pre>
+        <p>API istatistiklerini döndürür.</p>
+    </div>
+</body>
+</html>`;
+
+        await fs.writeFile(
+            path.join('dist', 'index.html'),
+            indexHtml
+        );
+
+        console.log('All files saved successfully');
+    } catch (error) {
+        console.error('Error saving files:', error);
     }
-
-    for (const [publisher, packages] of Object.entries(byPublisher)) {
-      await fs.writeFile(
-        `dist/v2/publishers/${publisher}.json`,
-        JSON.stringify(packages, null, 2)
-      );
-    }
-
-    for (const pkg of this.packages) {
-      await fs.writeFile(
-        `dist/v2/packages/${pkg.id}.json`,
-        JSON.stringify(pkg, null, 2)
-      );
-    }
-  }
-
-  async generateStats() {
-    const stats = {
-      totalPackages: this.packages.length,
-      totalPublishers: new Set(this.packages.map(p => p.latest.publisher)).size,
-      totalVersions: this.packages.reduce((acc, pkg) => acc + pkg.versions.length, 0),
-      lastUpdate: new Date().toISOString(),
-      topPublishers: this.getTopPublishers(),
-      popularTags: this.getPopularTags()
-    };
-
-    await fs.writeFile(
-      'dist/v2/stats.json',
-      JSON.stringify(stats, null, 2)
-    );
   }
 
   getTopPublishers() {
@@ -246,70 +322,6 @@ class WingetDetailedGenerator {
       .sort((a, b) => b[1] - a[1])
       .slice(0, 20)
       .map(([tag, count]) => ({ tag, count }));
-  }
-
-  async generateIndexHtml() {
-    const html = `<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <title>Winget.tr API</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Turkish Winget Package Repository API">
-    <style>
-        body {
-            font-family: -apple-system, system-ui, sans-serif;
-            line-height: 1.6;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background: #f8f9fa;
-        }
-        .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0; }
-        .stat-card { background: #f8f9fa; padding: 20px; border-radius: 8px; text-align: center; }
-        code { background: #f1f3f5; padding: 2px 6px; border-radius: 4px; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>🚀 Winget.tr API</h1>
-        <p>Türkiye'nin Windows Paket Yöneticisi API'si</p>
-        
-        <div class="stats">
-            <div class="stat-card">
-                <h3>📦 Toplam Paket</h3>
-                <strong>${this.packages.length}</strong>
-            </div>
-            <div class="stat-card">
-                <h3>👥 Toplam Yayıncı</h3>
-                <strong>${new Set(this.packages.map(p => p.latest.publisher)).size}</strong>
-            </div>
-            <div class="stat-card">
-                <h3>🔖 Toplam Versiyon</h3>
-                <strong>${this.packages.reduce((acc, pkg) => acc + pkg.versions.length, 0)}</strong>
-            </div>
-            <div class="stat-card">
-                <h3>🕒 Son Güncelleme</h3>
-                <strong>${new Date().toLocaleString('tr-TR')}</strong>
-            </div>
-        </div>
-
-        <h2>📚 API Endpoints</h2>
-        <ul>
-            <li><code>/v2/packages.json</code> - Tüm paketler</li>
-            <li><code>/v2/publishers/{publisher}.json</code> - Yayıncıya göre paketler</li>
-            <li><code>/v2/packages/{id}.json</code> - Tekil paket detayı</li>
-            <li><code>/v2/stats.json</code> - API istatistikleri</li>
-        </ul>
-
-        <h2>🔄 Güncelleme</h2>
-        <p>API her 30 dakikada bir otomatik olarak güncellenir.</p>
-    </div>
-</body>
-</html>`;
-
-    await fs.writeFile('dist/index.html', html);
   }
 }
 
