@@ -13,7 +13,7 @@ class WingetDetailedGenerator {
     });
     
     this.packages = [];
-    this.concurrentLimit = 2;
+    this.concurrentLimit = 3;
     this.requestDelay = 1000;
   }
 
