@@ -1,4 +1,3 @@
-# .github/workflows/update-api.yml
 name: Update API Data
 
 on:
@@ -8,12 +7,19 @@ on:
   push:
     branches: [ main ]     # Main branch'e push olduğunda da çalışır
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write    # Bu satır eklendi
+
 jobs:
   update-api:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
+    
+    # Environment ekledik
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
       - name: Checkout repository
@@ -42,21 +48,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/generate-api.js
         
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          force_orphan: true
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'chore: update API data'
-
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+        
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
-          path: ./dist
+          path: './dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
