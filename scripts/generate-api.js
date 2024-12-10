@@ -1,12 +1,10 @@
-// scripts/generate-api.js
 const axios = require('axios');
 const fs = require('fs/promises');
 const path = require('path');
 const yaml = require('yaml');
 
-class WingetApiGenerator {
+class WingetApiFastGenerator {
   constructor() {
-    // GitHub token'ı olmadan da çalışabilmesi için basic auth kaldırıldı
     this.api = axios.create({
       baseURL: 'https://api.github.com',
       headers: {
@@ -15,84 +13,123 @@ class WingetApiGenerator {
     });
     
     this.packages = [];
+    this.concurrentLimit = 10; // Aynı anda işlenecek paket sayısı
   }
 
-  async fetchWithRetry(url, retries = 3) {
-    for (let i = 0; i < retries; i++) {
-      try {
-        // API çağrısı öncesi kısa bekleme ekleyelim
+  async fetchWithRetry(url) {
+    try {
+      await new Promise(resolve => setTimeout(resolve, 100)); // Minimal bekleme
+      const response = await this.api.get(url);
+      return response.data;
+    } catch (error) {
+      if (error.response?.status === 403) {
+        console.log('Rate limit reached, short waiting...');
         await new Promise(resolve => setTimeout(resolve, 1000));
-        const response = await this.api.get(url);
-        return response.data;
-      } catch (error) {
-        console.error(`Error fetching ${url}:`, error.message);
-        if (i === retries - 1) throw error;
-        // Hata durumunda daha uzun bekleyelim
-        await new Promise(resolve => setTimeout(resolve, 2000 * (i + 1)));
+        return this.fetchWithRetry(url);
       }
+      throw error;
     }
   }
 
-  async fetchPackageContent(publisher, packageName) {
-    try {
-      const url = `/repos/microsoft/winget-pkgs/contents/manifests/${publisher}/${packageName}`;
-      return await this.fetchWithRetry(url);
-    } catch (error) {
-      console.error(`Error fetching package content for ${publisher}/${packageName}:`, error.message);
-      return null;
-    }
-  }
+  async processPublisherBatch(publishers) {
+    return Promise.all(
+      publishers.map(async (publisher) => {
+        try {
+          console.log(`Processing ${publisher.name}...`);
+          const packages = await this.fetchWithRetry(publisher.url);
+          
+          const packagePromises = packages
+            .filter(pkg => pkg.type === 'dir')
+            .map(async (pkg) => {
+              try {
+                return {
+                  id: `${publisher.name}.${pkg.name}`,
+                  versions: ['latest'],
+                  latest: {
+                    name: pkg.name,
+                    publisher: publisher.name,
+                    version: 'latest',
+                    description: '',
+                    tags: []
+                  },
+                  updatedAt: new Date().toISOString()
+                };
+              } catch (error) {
+                console.error(`Error processing ${pkg.name}:`, error.message);
+                return null;
+              }
+            });
 
-  async processPublisherDirectory(dir) {
-    try {
-      console.log(`Processing publisher: ${dir.name}`);
-      const packages = await this.fetchWithRetry(dir.url);
-      
-      for (const pkg of packages) {
-        if (pkg.type === 'dir') {
-          const content = await this.fetchPackageContent(dir.name, pkg.name);
-          if (content) {
-            const packageInfo = {
-              id: `${dir.name}.${pkg.name}`,
-              versions: [],
-              latest: {
-                name: pkg.name,
-                publisher: dir.name,
-                version: 'latest',
-                description: '',
-                tags: []
-              },
-              updatedAt: new Date().toISOString()
-            };
-            
-            this.packages.push(packageInfo);
-            console.log(`Added package: ${packageInfo.id}`);
-          }
+          const processedPackages = await Promise.all(packagePromises);
+          return processedPackages.filter(Boolean);
+        } catch (error) {
+          console.error(`Error processing publisher ${publisher.name}:`, error.message);
+          return [];
         }
-      }
-    } catch (error) {
-      console.error(`Error processing directory ${dir.name}:`, error.message);
+      })
+    );
+  }
+
+  async processBatches(publishers) {
+    const batchSize = this.concurrentLimit;
+    const batches = [];
+    
+    for (let i = 0; i < publishers.length; i += batchSize) {
+      batches.push(publishers.slice(i, i + batchSize));
+    }
+
+    let processedTotal = 0;
+    for (const batch of batches) {
+      const results = await this.processPublisherBatch(batch);
+      const packages = results.flat();
+      this.packages.push(...packages);
+      
+      processedTotal += packages.length;
+      console.log(`Processed ${processedTotal} packages so far...`);
     }
   }
 
   async generateApiFiles() {
     try {
-      const publishers = await this.fetchWithRetry('/repos/microsoft/winget-pkgs/contents/manifests');
+      console.log('Starting fast API generation...');
       
-      for (const dir of publishers) {
-        if (dir.type === 'dir') {
-          await this.processPublisherDirectory(dir);
-        }
-      }
+      // Tüm yayıncıları al
+      const publishers = await this.fetchWithRetry('/repos/microsoft/winget-pkgs/contents/manifests');
+      const validPublishers = publishers.filter(p => p.type === 'dir');
+      
+      console.log(`Found ${validPublishers.length} publishers`);
+      await this.processBatches(validPublishers);
 
-      // API dosyalarını oluştur
+      // Dizin yapısını oluştur
       await fs.mkdir('dist/v2', { recursive: true });
+      await fs.mkdir('dist/v2/publishers', { recursive: true });
+
+      // Ana paket listesini kaydet
       await fs.writeFile(
         'dist/v2/packages.json',
         JSON.stringify(this.packages, null, 2)
       );
 
+      // Yayıncılara göre grupla ve kaydet
+      const byPublisher = {};
+      for (const pkg of this.packages) {
+        const publisher = pkg.latest.publisher;
+        if (!byPublisher[publisher]) {
+          byPublisher[publisher] = [];
+        }
+        byPublisher[publisher].push(pkg);
+      }
+
+      // Her yayıncı için ayrı dosya oluştur
+      for (const [publisher, packages] of Object.entries(byPublisher)) {
+        await fs.writeFile(
+          `dist/v2/publishers/${publisher}.json`,
+          JSON.stringify(packages, null, 2)
+        );
+      }
+
       console.log(`Successfully processed ${this.packages.length} packages`);
+      console.log('API generation completed!');
     } catch (error) {
       console.error('Error generating API:', error.message);
     }
@@ -100,5 +137,6 @@ class WingetApiGenerator {
 }
 
 // API oluşturmayı başlat
-const generator = new WingetApiGenerator();
+console.log('Starting optimized winget API generator...');
+const generator = new WingetApiFastGenerator();
 generator.generateApiFiles();
